@@ -1,3 +1,2 @@
 #!/bin/bash
-readlink -f /tmp/correction/4992195651314993906056847598406812955430_5/205/185148/0x00-shell_basics
 readlink -f
